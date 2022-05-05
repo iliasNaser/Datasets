@@ -1,0 +1,18 @@
+	
+	NUS Multi-Sensor Presentation (NUSMSP) Dataset
+	
+	https://scholarbank.nus.edu.sg/handle/10635/137261
+
+	we collected a novel NUS Multi-Sensor Presentation (NUSMSP) Dataset, 
+	which contains 51 real-world presentations recorded in a multi-sensor environment. 
+	The NUSMSP Dataset was recorded between December 2014 and February 2015 
+	at the National University of Singapore (NUS). 
+	The dataset is collected in a meeting room equipped with two static cameras 
+	(with built-in microphone), one Kinect depth sensor, and three Google Glasses. 
+	This dataset consists of 51 unique individuals (32 males and 19 females). 
+	Each subject was asked to prepare and deliver a 10 to 15 minutes presentation
+	with no restriction on the topic. For each recording (presentation), 
+	the number of audience members ranged from 4 to 8. 
+	In total, we have about 10 hours of valid presentation data. 
+	Due to the unpredictable recording conditions,
+	a small portion of data from the sensors failed to record the presentation.

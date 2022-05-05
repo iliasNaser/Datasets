@@ -1,0 +1,45 @@
+,SubjectID,Assign6,Assign7,Assign8,Assign9,Assign10,Assign11,Assign12,Assign13,Exam1,Exam2,Exam3,FinalScore,major,HighestACT,HighSchoolGPA
+0,Student11,70,88,45,63,86,97,20,88,82,82,78,89.58,Non-Matriculated,,
+1,Student23,100,100,100,98,0,91,94,0,74,78,82,90.98,Physics,28,4
+2,Student21,90,96,98,95,77,0,97,56,68.67,78,80,90.79,Non-Matriculated,,
+3,Student17,89,96,100,94,91,100,89,0,88,84,80,96.95,Statistics,26,3.933
+4,Student7,100,100,99.5,97,100,95,98,18,90,90,86,100.52,Math/Stats - Comp Teaching,35,4
+5,Student29,100,100,100,100,94,100,100,56,86,84,80,100.6,Civil Engineering,33,4
+6,Student30,95,100,98,98,96,92,97,15,86,80,80,96.99,Civil Engineering,24,3.98
+7,Student10,95,100,100,85,88,94,100,0,88,86,84,97.6,Non-Matriculated,30,3.68
+8,Student24,0,100,99,87,97,92,96,78,86,82,76,91.05,Mathematics,32,4
+9,Student15,93,86,100,92,83,93,76,66,84,82,84,96.88,Computer Science,25,3.83
+10,Student41,3,88,0,28,100,84,20,58,82,84,72,82.33,Environmental Engineering,,
+11,Student42,84,8,92,89,79,100,100,94,0,82,74,79.88,Preparatory Engineering - ME,21,3.707
+12,Student25,32,93,97,5,0,0,0,0,68,78,32,14.72,Sociology,28,3.85
+13,Student39,95,100,98,95,93,89,97,75,62.67,84,74,90.15,Computer Science,19,3.486
+14,Student36,89,100,99,81.5,95,64,21,10,76,78,78,90.11,Computer Science,29,3.453
+15,Student22,93,100,99,98,91,68,21,0,66,64,62,82.57,Mechanical Engineering,27,3.378
+16,Student40,100,100,100,100,100,100,100,0,86,80,80,97.4,Art,34,3.969
+17,Student6,25,0,84,71,96,100,26,9,82,78,82,84.1,Mechanical Engineering,26,3.89
+18,Student33,88,100,100,100,100,100,100,0,86,86,84,98.79,Mechanical Engineering,32,4
+19,Student1,99,99,100,100,98,0,82,86,90,86,80,97.7,Computer Science,34,3.96
+20,Student28,73,88,100,86,85,86,89,56,80,80,68,93.48,Mechanical Engineering,28,4
+21,Student38,85,81,90,98,60,94,0,44,80,86,84,91.01,Biology,29,
+22,Student16,90,75,86,75,76,96,90,98,86,80,84,92.77,Computer Science,30,3.48
+23,Student12,79,87.5,96,95,90,86,99,77,76,78,86,95.73,Computer Science,15,3.95
+24,Student19,95,100,92,0,80,79,86,45,78,74,80,90.89,Computer Science,26,3.829
+25,Student3,48,99,100,95,87,88,74,38,84,88,86,95.22,Mathematics,30,4
+26,Student2,33,37,40,11,4,21,7,0,60,52,56,58.17,Physics,,
+27,Student37,70,100,90,92,82,96,97,95,86,78,82,98.45,Computer Science,32,3.73
+28,Student32,63,88,96,58,41,56,66,0,74,72,76,83.34,Exploratory,25,3.56
+29,Student34,90,100,100,97,97,91,46,0,90,88,86,96.76,Computer Science,34,3.95
+30,Student9,47,76,78,56,57,66,79,50,68,52,74,81.83,Computer Science,26,3.83
+31,Student18,0,89,95,96,92,88,78,51,82,86,90,94.19,Management,33,3.74
+32,Student31,45,35,100,0,0,0,0,0,80,74,78,71.35,Non-Matriculated,,
+33,Student13,73,100,99,0,79,100,100,95,82,80,76,94.52,Computer Science,30,4
+34,Student43,95,100,100,100,96,86,32,40,82,82,80,95.1,Statistics,,3.86
+35,Student27,66,90,94,96,56,97,86,84,84,84,80,95.68,Statistics,33,3.92
+36,Student8,93,0,100,100,94,100,81,0,86,84,84,91.72,Mechanical Engineering,32,4
+37,Student5,60,100,94,100,86,96,94,18,90,90,88,98.13,Computer Science,26,3.98
+38,Student20,-50,58.5,93,96,57,74,66,63,80,74,90,82.61,Mechanical Engineering,21,3.859
+46,Student26,78,89,98,100,79,88,93,97,74,80,80,95.91,Exploratory,30,4
+50,Student44,95,75,87,91,48,97,15,0,70,80,72,84,Preparatory Engineering - ME,21,3.54
+0,Student14,,,,,,,,,,,,,,,
+1,Student4,,,,,,,,,,,,,,,
+2,Student35,,,,,,,,,,,,,,,
