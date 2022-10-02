@@ -1,2 +1,2 @@
 # datasets
-Datasets for students performance prediciton
+Datasets about students performance prediciton
